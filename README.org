@@ -1,0 +1,10 @@
+* cl-openal
+
+Common Lisp bindings for the OpenAL audio library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/zkat/cl-openal.git   |
+| commit  | 81596fe  |
+| systems | cl-openal |
+|---------+-------------------------------------------|
+
